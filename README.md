@@ -40,13 +40,8 @@ Include screenshots of waveform or simulation output showing:
 - **Completion Certificate:** Will be issued on internship end date  
 - **Tools Used:** Verilog, ModelSim/Vivado, Notepad++/VS Code  
 
----
 
-
-
-# 4-Stage Pipelined Processor – CODTECH Internship Project
-
-## 📌 Project Overview
+##  Project Overview
 This project presents a functional design and simulation of a **4-stage pipelined processor** capable of executing basic instructions:
 - `ADD`: Adds values from two registers
 - `SUB`: Subtracts one register from another
@@ -60,7 +55,7 @@ The processor is implemented using **Verilog HDL**, simulating four pipeline sta
 
 ---
 
-## 🧠 Pipeline Stages Explained
+##  Pipeline Stages Explained
 
 | Stage | Name    | Description                              |
 |-------|---------|------------------------------------------|
